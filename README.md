@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SEIM Log Collection</b>
-  - Configure the Splunk Enterprise
-Application
+  - [Configure the Splunk Enterprise Application](https://github.com/tdnails/SplunkLogCollectionLab)
+
 
 
 <h2>🎖️ Certifications & Badges </h2>
